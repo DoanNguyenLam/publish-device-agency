@@ -1,0 +1,39 @@
+{
+    "hasError": false,
+    "errorCode": "",
+    "message": "",
+    "appData": [
+      {
+        "hotelId": 19,
+        "roomId": 1,
+        "roomName": "R 201",
+        "roomTypeId": 2,
+        "floorNumber": 1,
+        "type": ""
+      },
+      {
+        "hotelId": 19,
+        "roomId": 1,
+        "roomName": "R 201",
+        "roomTypeId": 3,
+        "floorNumber": 1,
+        "type": ""
+      },
+      {
+        "hotelId": 19,
+        "roomId": 1,
+        "roomName": "R 201",
+        "roomTypeId": 4,
+        "floorNumber": 1,
+        "type": ""
+      },
+      {
+        "hotelId": 19,
+        "roomId": 1,
+        "roomName": "R 202",
+        "roomTypeId": 2,
+        "floorNumber": 1,
+        "type": ""
+      }
+    ]
+  }
